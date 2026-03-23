@@ -25,6 +25,8 @@ Power BI dashboards stakeholders can actually use.
 | [Project Sentinel](https://github.com/shreyavijayjadhav3/project-sentinel-data-leak-ecommerce) | Fraud detection across 99K+ e-commerce orders — R$165K revenue leak uncovered | Python · SQL · Power BI |
 | [RAG Pipeline](https://github.com/shreyavijayjadhav3/rag-pipeline) | Modular retrieval-augmented generation using LangChain + Groq Llama3 + FAISS | Python · LangChain · FAISS |
 | [Movie Market Analysis](https://github.com/shreyavijayjadhav3/movie-market-analysis) | IMDB dataset analysis on Apache Spark with window functions | PySpark · Databricks |
+| [Film Recommender System](https://github.com/shreyavijayjadhav3/film-recommender-system) | Movie Recommender System using Cosine Similarity and NLP | 
+Python . Streamlit | 
 
 ---
 
