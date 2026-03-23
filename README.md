@@ -35,13 +35,13 @@ Power BI dashboards stakeholders can actually use.
 
 **Analytics:** Pandas · NumPy · Matplotlib · Seaborn · EDA
 
-**Visualisation:** Power BI · Tableau
+**Visualisation:** Power BI · 
 
-**Big Data:** Apache Spark · PySpark · Databricks · Kafka
+**Big Data:** Apache Spark · PySpark · Databricks 
 
 **AI/GenAI:** LangChain · FAISS · Groq · RAG Architecture
 
-**Other:** Jupyter Notebook · Git · MS SQL Server
+**Other:** Jupyter Notebook · GitHub · MS SQL Server
 
 ---
 
